@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mis Libros</string>
+    <string name="list">Lista</string>
+    <string name="search">Buscar</string>
+    <string name="udpate">Actualizar</string>
+    <string name="delete">Borrar</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="signup"><u>Regístrate</u></string>
+    <string name="login">Iniciar sesión</string>
+    <string name="name">Nombre</string>
+    <string name="phone">Teléfono</string>
+    <string name="rep_password">Repita la contraseña</string>
+    <string name="register">Registrar</string>
+    <string name="create_book">Crear libro</string>
+    <string name="name_book">Nombre del libro</string>
+    <string name="author">Escritor</string>
+    <string name="pages">Páginas: %s</string>
+    <string name="genre">Género</string>
+    <string name="publication_date">Fecha de publicación</string>
+    <string name="create">Crear</string>
+    <string name="name_book_to_search">Digite nombre del libro a buscar</string>
+    <string name="result">"Resultado: "</string>
+    <string name="example_name_book">La Mala Hora</string>
+    <string name="example_author">Gabriel Garcia Marquez</string>
+    <string name="detail">Detalle del libro</string>
+    <string name="example_genre">Comedia</string>
+    <string name="example_pages">Páginas: 250</string>
+    <string-array name="genre_array">
+        <item>Aventura</item>
+        <item>Fantasia</item>
+        <item>Suspenso</item>
+        <item>Terror</item>
+    </string-array>
+</resources>
